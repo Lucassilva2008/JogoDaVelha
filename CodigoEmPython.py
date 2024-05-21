@@ -4,6 +4,8 @@
 # www.parisotto.net
 # modificado por ... em (data)9
 
+# Ok - Prof. Parisotto
+
 casas = []
 i = 1
 while i <= 9:
